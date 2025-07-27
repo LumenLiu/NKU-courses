@@ -15,8 +15,11 @@
 
 > ⚠️ **免责声明**：本人并非编程高手，部分代码质量可能不高，甚至存在"屎山代码"。请使用者自行鉴别和改进。如果发现任何问题，欢迎提PR或者通过邮箱联系我。
 
-📚 **相关推荐**：本仓库与 [NKU-cyber](https://github.com/LumenLiu/NKU-cyber)、[NKU_Final_Exam](https://github.com/Luhaozhhhe/NKU_Final_Exam) 一起使用效果更佳。
+📚 **相关推荐**：
 
+- 本仓库与 [NKU-cyber](https://github.com/LumenLiu/NKU-cyber)、[NKU_Final_Exam](https://github.com/Luhaozhhhe/NKU_Final_Exam) 一起使用效果更佳。
+
+- 更多内容请关注 [https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU](https://pan.baidu.com/s/1XEdQ580od2ExjIEDnVg0mA?pwd=iNKU)。
 
 
 ## Contribution
